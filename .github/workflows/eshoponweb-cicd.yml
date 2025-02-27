@@ -9,18 +9,8 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: c4899089-3b1a-448d-b79c-9af5fe4dd171
-  WEBAPP-NAME: {
-  "clientId": "a9df6be0-2705-4bef-b665-d51ad91f77e5",
-  "clientSecret": "yVE8Q~DcjuoXMaIa622s8RHryD_F5wRhieIuZcL7",
-  "subscriptionId": "c4899089-3b1a-448d-b79c-9af5fe4dd171",
-  "tenantId": "e0bc980a-9e55-4d91-942d-7d04fca3ebc9",
-  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
-  "resourceManagerEndpointUrl": "https://management.azure.com/",
-  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
-  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
-  "galleryEndpointUrl": "https://gallery.azure.com/",
-  "managementEndpointUrl": "https://management.core.windows.net/"
-}
+  WEBAPP-NAME: webapp-westeurope-738030478
+  
 
 
 jobs:
